@@ -7,3 +7,5 @@
  matrix_parse.py - total number of ways to move from top left cell to the bottom rigt 
  
  mult_table.py - print table of n as recirsive function
+ 
+ fib - fibonacci
