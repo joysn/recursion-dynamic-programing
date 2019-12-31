@@ -9,3 +9,5 @@
  mult_table.py - print table of n as recirsive function
  
  fib - fibonacci
+ 
+ min_cost - Find the min cost to reach 2,3 of a matrix
