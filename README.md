@@ -11,3 +11,5 @@
  fib - fibonacci
  
  min_cost - Find the min cost to reach 2,3 of a matrix
+ 
+ fill_plot - filling a plot of given size with a tile of given size
