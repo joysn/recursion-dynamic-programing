@@ -15,3 +15,5 @@
  fill_plot - filling a plot of given size with a tile of given size
  
  score_game - can score 3, 5, 10 . Given N, find total number of unique ways to reach N
+ 
+ max_sum_array - the max sum of sub array such that the elements are contiguos
