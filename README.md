@@ -23,3 +23,6 @@ edit_distance - Insert, Replace, Update
 ways_top_bottom - Given matrix, find # of ways to move from top left to bottom right corner
 
 ways_to_xy - Given matrix, find # of ways to move from top left to xy coordinates
+
+ways_to_xy_block - Given a matrix, find no of ways to reach from 0,0 to x,y with some nodes blocked
+
