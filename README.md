@@ -26,3 +26,5 @@ ways_to_xy - Given matrix, find # of ways to move from top left to xy coordinate
 
 ways_to_xy_block - Given a matrix, find no of ways to reach from 0,0 to x,y with some nodes blocked
 
+min_chess_move - Find minimum # of moves required to reach from sr,sc to dr,dc
+
