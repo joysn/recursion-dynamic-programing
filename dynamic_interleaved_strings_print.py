@@ -31,18 +31,4 @@ def printInterleavingsHelper(str1,str2):
 print("## Recusrive Solution ##")
 print("'AB' & 'XY' :- ",printInterleavingsHelper('AB','XY'))
 print("'AB' & 'AB' :- ",printInterleavingsHelper('AB','AB'))
-
-
-# def printInterleavings(str1,str2):
-
-	# if len(str1) == 0 and len(str2) == 0:
-		# return ""
-	
-	# if len(str1) == 0:
-		# return str2
-	
-	# if len(str2) == 0:
-		# return str3
-		
-	# cache
 	
