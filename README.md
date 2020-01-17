@@ -34,3 +34,5 @@ interleaved_strings_print - given 2 strings, print all the interleavings of the 
 
 interleaved_strings_different - if both strings different, find if interleaved with Time - O(n+m) and  Space - O(1)
 
+subset_sum - For X, if there exist a sum of subset = X
+
