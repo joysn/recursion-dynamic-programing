@@ -36,3 +36,6 @@ interleaved_strings_different - if both strings different, find if interleaved w
 
 subset_sum - For X, if there exist a sum of subset = X
 
+longest_common_sub - longest common subset given two strings
+
+
