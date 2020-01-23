@@ -42,4 +42,5 @@ mono_incr_max_len - return the length of the largest monotonically increasing su
 
 mono_incr_max_len_print - print longets monotonically incrementing subsequence of an array
 
+itonic_sequence.py - if a seq is bitonic or not
 
