@@ -38,6 +38,9 @@ subset_sum - For X, if there exist a sum of subset = X
 
 longest_common_sub - longest common subset given two strings
 
+coin_change_min.py - find the min # of coins required to provide the change
+
+
 mono_incr_max_len - return the length of the largest monotonically increasing subsequence
 
 mono_incr_max_len_print - print longets monotonically incrementing subsequence of an array
