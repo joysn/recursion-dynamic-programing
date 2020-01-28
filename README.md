@@ -49,3 +49,6 @@ itonic_sequence.py - if a seq is bitonic or not
 
 bitonic_sequence_print.py - print the longest bitonic sequence
 
+coin_change_tot.py - total number of ways we can make change of the amount using the coins of given denominations
+
+
