@@ -51,4 +51,6 @@ bitonic_sequence_print.py - print the longest bitonic sequence
 
 coin_change_tot.py - total number of ways we can make change of the amount using the coins of given denominations
 
+rod_cut_max.py - how should the rod be cut to maximize the income
+
 
