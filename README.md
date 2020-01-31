@@ -55,3 +55,6 @@ rod_cut_max.py - how should the rod be cut to maximize the income
 
 knapsack_unlimited.py - Knapsack, unlimited # of each items
 
+knapsack_limited.py - Problem in Weights[n], int Values[n]
+
+
