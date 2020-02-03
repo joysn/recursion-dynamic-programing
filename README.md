@@ -40,7 +40,6 @@ longest_common_sub - longest common subset given two strings
 
 coin_change_min.py - find the min # of coins required to provide the change
 
-
 mono_incr_max_len - return the length of the largest monotonically increasing subsequence
 
 mono_incr_max_len_print - print longets monotonically incrementing subsequence of an array
@@ -57,4 +56,4 @@ knapsack_unlimited.py - Knapsack, unlimited # of each items
 
 knapsack_limited.py - Problem in Weights[n], int Values[n]
 
-
+longest_palindromic.py - longest palindromic subsequence
