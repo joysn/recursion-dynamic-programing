@@ -145,3 +145,24 @@ print("abbd:",longest_palindromic_subseq("abbd"))
 print("abcbd:",longest_palindromic_subseq("abcbd"))
 print("bbabcbcab:",longest_palindromic_subseq("bbabcbcab"))
 
+# (base) D:\>python dynamic_longest_palindromic.py
+# #######################
+# ### Using Recusrion ###
+# #######################
+# a: (1, 'a')
+# ab: (1, 'b')
+# abc: (1, 'c')
+# aba: (3, 'aba')
+# abbd: (2, 'bb')
+# abcbd: (3, 'bcb')
+# bbabcbcab: (7, 'bacbcab')
+# ################
+# ### Using DP ###
+# ################
+# a: (1, 'a')
+# ab: (1, 'b')
+# abc: (1, 'c')
+# aba: (3, 'aba')
+# abbd: (2, 'bb')
+# abcbd: (3, 'bcb')
+# bbabcbcab: (7, 'bacbcab')
