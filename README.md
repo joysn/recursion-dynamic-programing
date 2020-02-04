@@ -57,3 +57,6 @@ knapsack_unlimited.py - Knapsack, unlimited # of each items
 knapsack_limited.py - Problem in Weights[n], int Values[n]
 
 longest_palindromic.py - longest palindromic subsequence
+
+largest_square_submatrix.py - the largest square subarray of true values
+
