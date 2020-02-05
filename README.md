@@ -38,6 +38,10 @@ subset_sum - For X, if there exist a sum of subset = X
 
 longest_common_sub - longest common subset given two strings
 
+partition_with_min_cut.py - partition string such that every subsring of the partition is a palindrome.
+
+
+
 coin_change_min.py - find the min # of coins required to provide the change
 
 mono_incr_max_len - return the length of the largest monotonically increasing subsequence
