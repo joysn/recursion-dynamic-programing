@@ -64,3 +64,5 @@ longest_palindromic.py - longest palindromic subsequence
 
 largest_square_submatrix.py - the largest square subarray of true values
 
+egg_floor_problem.py - min number of drops required to know form which floor the egg will break
+
