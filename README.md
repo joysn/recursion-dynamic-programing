@@ -66,3 +66,6 @@ largest_square_submatrix.py - the largest square subarray of true values
 
 egg_floor_problem.py - min number of drops required to know form which floor the egg will break
 
+egg_floor_problem_print.py - same a previous, we are printing the floors too
+
+
