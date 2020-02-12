@@ -38,6 +38,8 @@ subset_sum - For X, if there exist a sum of subset = X
 
 longest_common_sub - longest common subset given two strings
 
+longest_palindromic.py - longest palindromic subsequence
+
 partition_with_min_cut.py - partition string such that every subsring of the partition is a palindrome.
 
 
