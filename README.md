@@ -71,3 +71,6 @@ egg_floor_problem.py - min number of drops required to know form which floor the
 egg_floor_problem_print.py - same a previous, we are printing the floors too
 
 ugly_numbers.py - Given a number n, the task is to find n’th Ugly number.
+
+longest_strip_color.py - Find the color with largest continuous string
+
