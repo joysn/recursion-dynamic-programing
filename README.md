@@ -75,3 +75,7 @@ ugly_numbers.py - Given a number n, the task is to find n’th Ugly number.
 longest_strip_color.py - Find the color with largest continuous string
 
 partition_array_with_equal_sum.py -  Paritioning/divide array such that left and right sums are same
+
+public_transport.py - Given two cities can we reach from city1 to city2 using public transport
+
+
