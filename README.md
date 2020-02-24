@@ -78,4 +78,4 @@ partition_array_with_equal_sum.py -  Paritioning/divide array such that left and
 
 public_transport.py - Given two cities can we reach from city1 to city2 using public transport
 
-
+longest_palindromic_2.py - longest palindrome
