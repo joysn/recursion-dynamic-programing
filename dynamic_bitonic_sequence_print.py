@@ -84,3 +84,14 @@ print("[9,2,-4,-10,-15] largest bitonic string:-",largest_bitonic_seq_print([9,2
 print("[1,2,3,4] largest bitonic string:-",largest_bitonic_seq_print([1,2,3,4]))
 print("[1,3,12,4,2,10] largest bitonic string:-",largest_bitonic_seq_print([1,3,12,4,2,10]))
 print("[1,10,4,9,2,-1,100] largest bitonic string:-",largest_bitonic_seq_print([1,10,4,9,2,-1,100]))
+
+
+# OP
+######################
+###### Using DP ######
+######################
+#[1,4,6,8,3,-2] largest bitonic string:- [1, 4, 6, 8, 3, -2]
+#[9,2,-4,-10,-15] largest bitonic string:- [9, 2, -4, -10, -15]
+#[1,2,3,4] largest bitonic string:- [1, 2, 3, 4]
+#[1,3,12,4,2,10] largest bitonic string:- [1, 3, 12, 4, 2]
+#[1,10,4,9,2,-1,100] largest bitonic string:- [9, 2, -1, 100]
