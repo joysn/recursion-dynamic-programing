@@ -87,3 +87,6 @@ gridTraveller - Travelling grids
 canSum - Target number and array of numbers
 
 howSum - target sum and array of numbers - how it is reached
+
+dp_bestSum - target sum and array of numbers - the shortest path in which it can reach the sum
+
