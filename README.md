@@ -90,3 +90,5 @@ howSum - target sum and array of numbers - how it is reached
 
 dp_bestSum - target sum and array of numbers - the shortest path in which it can reach the sum
 
+dp_canConstruct - Given a target string, can we construct the target string from the given set of wordbank
+
