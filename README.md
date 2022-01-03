@@ -82,11 +82,11 @@ longest_palindromic_2.py - longest palindrome
 
 dp_fib - finbonacci series
 
-gridTraveller - Travelling grids
+dp_gridTraveller - Travelling grids
 
-canSum - Target number and array of numbers
+dp_canSum - Target number and array of numbers
 
-howSum - target sum and array of numbers - how it is reached
+dp_howSum - target sum and array of numbers - how it is reached
 
 dp_bestSum - target sum and array of numbers - the shortest path in which it can reach the sum
 
