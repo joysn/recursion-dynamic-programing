@@ -92,3 +92,6 @@ dp_bestSum - target sum and array of numbers - the shortest path in which it can
 
 dp_canConstruct - Given a target string, can we construct the target string from the given set of wordbank
 
+dp_countConstruct - Given a target string, Count the # of ways, we construct the target string from the given set of wordbank
+
+
