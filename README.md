@@ -94,4 +94,4 @@ dp_canConstruct - Given a target string, can we construct the target string from
 
 dp_countConstruct - Given a target string, Count the # of ways, we construct the target string from the given set of wordbank
 
-
+dp_allconstruct - Given a target string, list all ways can we construct the target string from the given set of wordbank
